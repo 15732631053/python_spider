@@ -1,0 +1,1 @@
+GLOBAL_URL='http://www.6myl.com/?paged=1'

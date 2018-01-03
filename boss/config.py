@@ -1,0 +1,1 @@
+GLOBAL_URL='http://www.zhipin.com/c101010100-p100103/?page=1&ka=page-1'

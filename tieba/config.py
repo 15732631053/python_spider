@@ -1,0 +1,1 @@
+GLOBAL_URL='https://tieba.baidu.com/f?kw=%E7%BE%8E%E5%9B%BE&ie=utf-8&pn=0'

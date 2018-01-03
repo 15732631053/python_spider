@@ -1,0 +1,1 @@
+GLOBAL_URL='https://www.jianshu.com/p/8424e4879c0f'
