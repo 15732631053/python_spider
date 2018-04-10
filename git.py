@@ -70,7 +70,7 @@ class GithubLogin():
     def get_token(self):
         response = self.session.get(self.loginUrl, headers=self.headers)
         html = etree.HTML(response.text)
-        authenticity_token = html.xpath('//div/input[2]/@value')
+        authenticity_token = html.xpath('//form/input[2]/@value')
         print(authenticity_token)
         return authenticity_token
 
